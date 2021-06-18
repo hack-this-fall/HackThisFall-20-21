@@ -5227,11 +5227,11 @@ textarea.form-input {
 	justify-content: center;
 	align-items: center;
 	max-width: 270px;
-	min-height: 208px;
+	min-height: 75px;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px;
+	padding: 10px;
 	background-color: transparent;
 	
 }
