@@ -9907,6 +9907,7 @@ button.swiper-pagination-bullet {
   .card-group-custom * + .card {
     padding-top: 30px;
   }
+
 }
 
 .card-group-custom.card-group-corporate .card + .card {
@@ -14979,8 +14980,12 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 @media (max-width: 600px) {
   .button-secondary {
-    margin-top: 20px !important;
+    padding: 12px;
+    width: 150px;
+    height: 50px;
+    margin-top: 10px !important;
   }
+  
 }
 
 /** @section Waves */
